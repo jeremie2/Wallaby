@@ -1,5 +1,5 @@
 # Wallaby
-A theme for [COSMIC Desktop](https://system76.com/cosmic) with unusual but still elegant colors.
+A [theme](https://cosmic-themes.org/) for [COSMIC Desktop](https://system76.com/cosmic) with unusual but still elegant colors.
 Not too dark, not too bright... suitable for every occasion:
 
 ![wallaby](https://github.com/user-attachments/assets/ab2b6949-18f2-4235-8742-a42bf76df6ab)
